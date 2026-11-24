@@ -34,4 +34,5 @@ Sistema completo para **coleta de Fichas Individuais, organização da Base Hist
    * Se usar em mais de um computador na secretaria, informe o caminho da **pasta compartilhada na rede**;
    * Baixe o **modelo Word (.docx)**, preencha o cabeçalho/timbre da sua escola no topo e envie de volta na mesma tela.
 2. Acesse **Assinaturas** e cadastre os Oficiais Administrativos e Diretores(as).
-3. Use **Coletar Turmas** para montar sua Base Histórica e **E
+3. Use **Coletar Turmas** para montar sua Base Histórica e **Emitir / Buscar** para gerar os históricos.
+4. Dúvidas? Consulte a aba **Como Usar** dentro do próprio sistema ou o arquivo `LEIA-ME.txt`.
